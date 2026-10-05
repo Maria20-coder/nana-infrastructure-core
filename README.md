@@ -36,4 +36,4 @@ This public-goods tracking framework is developed independently by a solo resear
 ##  Development Meta & Verification
 *   **Ecosystem Research Portal:** https://tally.so/r/vGbAqg
 *   **Live UI Simulator Engine:** https://app.base44.com/apps/6abf8a76114e77b62f2ab410/editor/preview
-*   
+  
